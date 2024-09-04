@@ -52,3 +52,10 @@ form input.equal{
 form input.operator{
   color:#33ffd8 ;
 }
+
+@media (max-width: 430px){
+  .container{
+    width: 430px;
+    height: 932px;
+  }
+}
